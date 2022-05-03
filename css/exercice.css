@@ -1,6 +1,20 @@
 /* 1. Position STATIC */
+.Position STATIC .container {
+  background: white;
+}
 
+.Position STATIC .element {
+  position: static;
+}
 /* 2. Position RELATIVE */
+.Position RELATIVE .container {
+
+}
+
+.Position RELATIVE .element blue {
+  position: relative;
+  right: 20px;
+}
 
 /* 3. Position RELATIVE II */
 
