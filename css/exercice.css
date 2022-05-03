@@ -12,14 +12,13 @@
 
 .exercice-relative .element-blue {
   position: relative;
-  right: 20px;
 }
 
 /* 3. Position RELATIVE II */
-.Position RELATIVE II .element-blue {
+.exercice-relative-2 .block-blue {
   position: relative;
   top: -20px;
-  left: 20px;
+  right: 20px;
 }
 /* 4. Position ABSOLUTE */
 
